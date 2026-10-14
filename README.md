@@ -4,4 +4,4 @@ On the technical side, I’m a member of the software team for Northeastern Elec
 
 My history coursework has trained me to research carefully, write precisely, and make sense of messy information, which carries straight into how I approach engineering problems and communicate with both technical and non-technical teams.
 
-I’m currently seeking a spring co-op in software engineering, especially roles involving AI, signal processing, or full-stack development.
+I’m currently seeking a spring co-op in software engineering, especially roles involving AI, data engineering, or full-stack development.
